@@ -1,5 +1,5 @@
 import math
-
+# this function determines whether the number is a prime number
 def is_prime(number):
     if number < 2:
         return True
